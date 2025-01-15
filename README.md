@@ -1,5 +1,8 @@
 ## Hi there! I'm Angelo 🚀👋
 
+---
+
+
 I'm a MSc graduated student in Computer Science and Engineering at Politecnico di Milano.
 
 In my profile you can find a lot of projects done during the universitary years. 🛠️
