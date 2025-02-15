@@ -3,7 +3,6 @@
 ---
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-tulbure/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:angelotulbure00@gmail.com)
-[![Leetcode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=solved&url=https%3A%2F%2Fleetcodebadge.vercel.app%2Fapi%2Fusers%2FAngeloTulbure&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/AngeloTulbure/)
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-Solved%20Problems-orange?style=flat&logo=leetcode)
 
 
