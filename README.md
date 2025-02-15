@@ -4,6 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-tulbure/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:angelotulbure00@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-50%20Solved-orange?style=flat&logo=leetcode)](https://leetcode.com/u/AngeloTulbure/)
+![LeetCode Stats](https://img.shields.io/endpoint?url=https://leetcode-stats-api.herokuapp.com/AngeloTulbure)
+
 
 
 I'm a MSc graduated student in Computer Science and Engineering at Politecnico di Milano.
