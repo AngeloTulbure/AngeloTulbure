@@ -5,6 +5,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:angelotulbure00@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-50%20Solved-orange?style=flat&logo=leetcode)](https://leetcode.com/u/AngeloTulbure/)
 
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/AngeloTulbure/)
 
 
 I'm a MSc graduated student in Computer Science and Engineering at Politecnico di Milano.
