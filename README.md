@@ -12,4 +12,4 @@ In my profile you can find a lot of projects done during the universitary years.
 
 I'm actually interested in the software engineering field, but I have always had an eye on Machine Learning and Artificial Intelligence! 🤖
 
-In general, my true passion lies in technology and its potential to improve people's lives!👨‍💻
+In general, my true passion lies in technology and its potential to improve people's lives! 👨‍💻
