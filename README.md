@@ -6,7 +6,7 @@
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/AngeloTulbure/)
 
 
-I'm a MSc graduated student in Computer Science and Engineering at Politecnico di Milano.
+I'm a Data Scientist, MSc graduated student in Computer Science and Engineering at Politecnico di Milano.
 
 In my profile you can find a lot of projects done during the universitary years. 🛠️
 
